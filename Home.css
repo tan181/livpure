@@ -206,16 +206,37 @@
     min-height: 440px;
   }
 
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 689px;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-top: 175px;
+    width: auto;
+    margin-top: 11px;
+    margin-left: 40px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: -177px;
+    width: auto;
+    margin-top: 20px;
+    margin-right: -11px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-4 {
-    margin-top: 47px;
+    width: auto;
+    margin-top: 182px;
+    margin-right: -5px;
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin-top: -366px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 244px;
   }
 
   .u-section-1 .u-btn-3 {
